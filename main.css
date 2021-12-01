@@ -1,0 +1,73 @@
+.penguin1 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("C:\Users\obena\Desktop\penguin_pngs\penguin_pngs\mound_1.png");
+}
+
+.penguin2 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("C:\Users\obena\Desktop\penguin_pngs\penguin_pngs\mound_2.png";
+}
+.penguin3 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("C:\Users\obena\Desktop\penguin_pngs\penguin_pngs\mound_3.png");
+}
+.penguin4 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("C:\Users\obena\Desktop\penguin_pngs\penguin_pngs\mound_4.png");
+}
+.penguin5 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("C:\Users\obena\Desktop\penguin_pngs\penguin_pngs\mound_5.png");
+}
+.penguin6 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("C:\Users\obena\Desktop\penguin_pngs\penguin_pngs\mound_6.png");
+}
+.penguin7 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("C:\Users\obena\Desktop\penguin_pngs\penguin_pngs\mound_7.png");
+}
+
+.penguin8 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("C:\Users\obena\Desktop\penguin_pngs\penguin_pngs\mound_8.png");
+}
+
+.yeti {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("C:\Users\obena\Desktop\penguin_pngs\penguin_pngs\yeti.png");
+}
+
+body {
+    background-color: #ccf5f5;
+}
+
+#gameholder {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title {
+    width: 600px;
+    height: 150px;
+    background-image:url("C:\Users\obena\Desktop\penguin_pngs\penguin_pngs\penguin_title.png");
+}
